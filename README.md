@@ -1,7 +1,5 @@
 Hi, my name is Chris
 
-I'm a computer science student at Salisbury University
+I'm a computer science student and tutor at Salisbury University
 
-I'm currently working on a command line Pokemon remake
-
-You can contact me at cmorse1@gulls.salisbury.edu
+You can reach out to me by email at cmorse1@gulls.salisbury.edu
